@@ -1,0 +1,4 @@
+id,culture_index,culture,geometric_figure_index,geometric_figure,product_index,product,area,number_of_rows,area_per_row,ml_per_row,total_ml,total_liters
+310243a0-6f90-444a-9fbb-be1ba3b7b245,1,Soja,1,Retângulo,1,Nitrogênio,10000.0,10,1000.0,10000.0,100000.0,100.0
+08a829f0-826f-4180-84b7-c6a72bd954f8,2,Milho,2,Triângulo,2,Fósforo,5000.0,10,500.0,5000.0,50000.0,50.0
+d0cec7c1-a061-4926-ba6c-e74d8730e06b,1,Soja,2,Triângulo,3,Potássio,5000.0,10,500.0,5000.0,50000.0,50.0
