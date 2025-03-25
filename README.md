@@ -12,7 +12,7 @@ Instruções para execução do projeto:
 $ python3 main.py
 ```
 
-2. Com o data.csv gerado, execute a ánalise usando R
+2. Com o data.csv gerado, execute a análise usando R
 ```bash
 $ Rscript main.r
 ```
